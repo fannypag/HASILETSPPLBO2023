@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HASILETSPPLBO2023.iml" filepath="$PROJECT_DIR$/.idea/HASILETSPPLBO2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ETS-PR_FannyPutriaAgustina/spring-boot-microservices-new-part-4/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/ETS-PR_FannyPutriaAgustina/spring-boot-microservices-new-part-4/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ETS-PR_FannyPutriaAgustina/spring-boot-microservices-new-part-4/discovery-server/discovery-server.iml" filepath="$PROJECT_DIR$/ETS-PR_FannyPutriaAgustina/spring-boot-microservices-new-part-4/discovery-server/discovery-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ETS-PR_FannyPutriaAgustina/spring-boot-microservices-new-part-4/inventory-service/inventory-service.iml" filepath="$PROJECT_DIR$/ETS-PR_FannyPutriaAgustina/spring-boot-microservices-new-part-4/inventory-service/inventory-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ETS-PR_FannyPutriaAgustina/spring-boot-microservices-new-part-4/microservices-new.iml" filepath="$PROJECT_DIR$/ETS-PR_FannyPutriaAgustina/spring-boot-microservices-new-part-4/microservices-new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ETS-PR_FannyPutriaAgustina/spring-boot-microservices-new-part-4/order-service/order-service.iml" filepath="$PROJECT_DIR$/ETS-PR_FannyPutriaAgustina/spring-boot-microservices-new-part-4/order-service/order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ETS-PR_FannyPutriaAgustina/spring-boot-microservices-new-part-4/product-service/product-service.iml" filepath="$PROJECT_DIR$/ETS-PR_FannyPutriaAgustina/spring-boot-microservices-new-part-4/product-service/product-service.iml" />
+    </modules>
+  </component>
+</project>
